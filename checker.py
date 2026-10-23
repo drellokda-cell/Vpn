@@ -165,6 +165,7 @@ def collect() -> list:
     for src in load_sources():
         try:
             links = LINK_RE.findall(fetch(src))
+            random.shuffle(links)  # не брать всегда одни и те же верхние строки
         except Exception as e:
             print(f"[!] не скачался {src}: {e}")
             continue
@@ -301,4 +302,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
