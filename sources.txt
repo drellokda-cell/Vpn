@@ -1,2 +1,3 @@
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt
+https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt
+https://github.com/Delta-Kronecker/V2ray-Config/raw/refs/heads/main/config/protocols/vless.txt
