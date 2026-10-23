@@ -14,8 +14,12 @@ concurrency:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
-    timeout-minutes: 120
+    # По умолчанию раннер GitHub (США). Чтобы проверять из своей сети:
+    # Settings -> Secrets and variables -> Actions -> Variables -> RUNNER_LABEL = self-hosted
+    runs-on: ${{ vars.RUNNER_LABEL || 'ubuntu-latest' }}
+    timeout-minutes: 180
+    env:
+      XRAY_BIN: ${{ github.workspace }}/bin/xray
     steps:
       - uses: actions/checkout@v4
 
@@ -25,10 +29,11 @@ jobs:
 
       - name: Install xray-core
         run: |
+          mkdir -p bin
           curl -sL -o xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
-          unzip -q xray.zip xray -d /usr/local/bin
-          chmod +x /usr/local/bin/xray
-          xray version | head -1
+          python -m zipfile -e xray.zip bin/
+          chmod +x bin/xray
+          ./bin/xray version | head -1
 
       - name: Run checker
         run: python checker.py
@@ -37,6 +42,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add 1test_config.txt 2test_config.txt
+          git add 1test_config.txt 2test_config.txt results.csv
           git diff --cached --quiet || (git commit -m "Update configs $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
-
