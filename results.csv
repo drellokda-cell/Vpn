@@ -1,254 +1,307 @@
 proto,host,port,country,delay_ms,panel,mbps,stage2,failed_sites
-ss,156.146.38.168,443,US,61,7/7,694.3,1,
-ss,156.146.38.169,443,US,64,7/7,552.9,1,
-ss,216.106.178.169,19999,US,69,7/7,394.8,1,
-vmess,134.195.196.211,18000,CA,89,7/7,119.2,1,
-ss,37.19.198.244,443,US,94,7/7,543.4,1,
-ss,37.19.198.243,443,US,99,7/7,482.0,1,
-ss,38.128.66.32,19999,US,101,7/7,541.8,1,
-ss,37.19.198.160,443,US,116,7/7,548.9,1,
-ss,185.230.230.18,19999,US,122,7/7,620.7,1,
-ss,15.204.246.111,5498,US,125,7/7,81.3,1,
-ss,40.160.86.43,8388,US,126,3/7,,0,https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/
-ss,149.40.57.134,19999,US,127,7/7,343.0,1,
-ss,149.40.57.138,19999,US,130,7/7,345.9,1,
-vmess,162.251.61.46,1270,US,135,7/7,407.4,1,
-ss,149.40.57.133,19999,US,136,7/7,266.3,1,
-vmess,67.220.95.3,18000,US,142,7/7,,0,
-vless,47.253.226.114,443,US,146,7/7,,0,
-ss,15.204.246.132,7307,US,156,7/7,82.9,1,
-ss,185.215.132.18,19999,US,163,7/7,475.0,1,
-ss,173.244.56.9,443,US,169,7/7,304.3,1,
-ss,38.91.100.39,19999,US,170,7/7,248.6,1,
-ss,185.215.132.9,19999,US,170,7/7,179.7,1,
-ss,198.98.53.130,443,US,175,5/7,,0,https://www.google.com/ https://www.youtube.com/
-ss,173.244.56.6,443,US,181,7/7,314.6,1,
-vmess,84.17.41.2,18000,US,186,7/7,,0,
-ss,169.197.142.68,19999,US,189,7/7,309.2,1,
-ss,167.88.63.39,19999,US,189,7/7,,0,
-ss,172.111.36.123,19999,US,206,7/7,,0,
-vless,199.7.140.201,443,US,208,7/7,9.5,1,
-ss,184.107.106.77,8388,CA,208,4/7,,0,https://discord.com/ https://github.com/ https://www.wikipedia.org/
-ss,38.22.17.219,19999,US,214,7/7,367.0,1,
-vmess,23.162.200.198,18000,CA,221,5/7,98.0,1,https://www.google.com/ https://github.com/
-vmess,169.197.142.68,1270,US,229,7/7,296.2,1,
-trojan,167.88.61.52,443,US,239,7/7,194.3,1,
-vless,15.204.97.198,23576,US,240,7/7,294.7,1,
-vless,15.204.97.216,23576,US,246,7/7,,0,
-vless,15.204.97.209,23576,US,247,7/7,184.4,1,
-vless,15.204.97.219,23576,US,250,7/7,106.5,1,
-vless,15.204.97.206,23576,US,253,7/7,307.8,1,
-vless,15.204.97.195,23576,US,253,7/7,,0,
-trojan,167.88.61.193,443,US,256,7/7,318.3,1,
-vless,panel.apexkey.store,2053,US,291,7/7,37.2,1,
-ss,184.107.106.78,8388,CA,308,4/7,,0,https://web.telegram.org/ https://discord.com/ https://www.wikipedia.org/
-vless,kuruish.org,443,CA,309,7/7,,0,
-ss,151.241.19.36,19999,NL,337,7/7,208.6,1,
-ss,151.241.19.29,19999,NL,354,7/7,202.9,1,
-vless,188.114.98.0,443,??,362,6/7,,0,https://discord.com/
-ss,141.98.101.181,443,GB,362,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
-ss,185.176.206.9,19999,GB,363,7/7,187.0,1,
-ss,141.98.101.182,443,GB,373,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
-ss,141.98.101.178,443,GB,376,5/7,,0,https://www.youtube.com/ https://github.com/
-ss,185.176.204.18,19999,DE,378,7/7,,0,
-ss,82.38.31.165,443,NL,382,7/7,,0,
-ss,82.38.31.200,8080,NL,384,7/7,159.3,1,
-ss,82.38.31.49,8080,NL,384,7/7,100.4,1,
-ss,82.38.31.190,8080,NL,386,7/7,188.1,1,
-ss,82.38.31.186,8080,NL,386,7/7,183.3,1,
-ss,167.17.64.22,19999,FR,388,7/7,152.1,1,
-ss,82.38.31.214,8080,NL,389,7/7,178.8,1,
-ss,82.38.31.46,8080,NL,390,7/7,105.7,1,
-ss,82.38.31.204,8080,NL,392,7/7,178.2,1,
-ss,82.38.31.194,8080,NL,393,7/7,,0,
-ss,82.38.31.62,8080,NL,395,7/7,108.4,1,
-ss,82.38.31.208,8080,NL,396,7/7,150.6,1,
-ss,82.38.31.202,8080,??,396,7/7,,0,
-ss,82.38.31.210,8080,NL,397,7/7,172.6,1,
-ss,leviko-nl6763.shopingggg.ir,443,??,399,3/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/
-ss,82.38.31.35,8080,NL,401,7/7,92.4,1,
-ss,158.173.20.171,443,??,402,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-ss,82.110.60.9,19999,AT,403,7/7,179.0,1,
-ss,82.38.31.156,8080,NL,404,7/7,102.6,1,
-ss,193.29.139.198,8080,NL,404,7/7,175.4,1,
-vless,172.64.154.113,8443,US,410,7/7,,0,
-ss,138.199.55.243,19999,SE,412,7/7,,0,
-vless,subgift3.gcorecdn.com,443,US,415,7/7,44.9,1,
-ss,82.38.31.198,8080,NL,416,7/7,179.9,1,
-ss,82.38.31.157,8080,NL,418,7/7,109.7,1,
-ss,202.50.253.45,19999,IT,418,7/7,,0,
-ss,202.50.253.63,19999,IT,421,6/7,,0,https://www.google.com/
-ss,202.50.253.18,19999,IT,422,7/7,,0,
-ss,202.50.253.36,19999,IT,425,7/7,,0,
-ss,202.50.253.99,19999,IT,428,7/7,,0,
-ss,202.50.253.72,19999,IT,435,7/7,,0,
-ss,202.50.253.81,19999,IT,436,7/7,,0,
-ss,202.50.253.54,19999,IT,436,7/7,163.4,1,
-ss,62.93.179.97,19999,ES,443,7/7,155.3,1,
-vless,51.158.206.103,23576,NL,446,7/7,,0,
-ss,82.38.31.48,8080,NL,449,7/7,106.6,1,
-ss,82.38.31.217,8080,NL,453,7/7,,0,
+ss,156.146.38.170,443,US,60,7/7,,0,
+ss,156.146.38.169,443,US,64,7/7,,0,
+ss,67.220.73.178,19999,US,89,7/7,,0,
+ss,38.64.138.135,19999,US,91,7/7,,0,
+ss,37.19.198.244,443,US,109,7/7,,0,
+vmess,38.128.66.241,1270,US,110,7/7,379.8,1,
+ss,135.148.42.13,8388,US,126,7/7,,0,
+ss,15.204.247.244,443,US,127,7/7,51.9,1,
+ss,149.40.57.133,19999,US,130,7/7,307.4,1,
+ss,149.40.57.138,19999,US,132,7/7,331.1,1,
+ss,149.40.57.135,19999,US,133,7/7,341.2,1,
+vmess,38.128.66.249,1270,US,134,7/7,,0,
+vless,47.253.226.114,443,US,135,7/7,11.2,1,
+ss,185.230.230.18,19999,US,137,7/7,556.2,1,
+ss,15.204.247.244,4444,US,137,7/7,,0,
+vless,185.95.231.156,443,US,142,7/7,,0,
+ss,15.204.246.107,8888,US,142,7/7,84.7,1,
+ss,137.184.89.151,19999,US,144,7/7,572.9,1,
+vmess,67.220.95.3,18000,US,144,7/7,,0,
+ss,38.91.100.39,19999,US,146,7/7,,0,
+ss,45.86.51.18,19999,US,148,7/7,550.5,1,
+ss,15.204.246.108,8881,US,149,7/7,79.8,1,
+ss,15.204.246.132,7307,US,155,7/7,80.7,1,
+ss,38.143.66.146,19999,US,158,7/7,,0,
+ss,23.150.152.38,19999,US,162,7/7,,0,
+vless,169.40.42.74,443,US,167,7/7,,0,
+trojan,66.163.122.30,443,US,167,7/7,502.2,1,
+vless,159.89.87.21,28190,US,171,7/7,,0,
+trojan,66.163.122.25,443,US,175,7/7,571.9,1,
+vless,169.40.42.231,443,US,179,7/7,,0,
+vmess,169.197.142.22,18000,US,180,7/7,,0,
+trojan,66.163.122.7,443,US,182,7/7,539.2,1,
+vmess,84.17.41.2,18000,US,197,7/7,,0,
+vless,179.254.94.184,443,US,200,7/7,,0,
+ss,15.204.233.41,8882,US,203,7/7,79.4,1,
+ss,167.88.63.99,19999,US,204,7/7,,0,
+vless,205.186.112.19,443,US,210,7/7,,0,
+vless,169.40.42.163,443,US,231,7/7,,0,
+vless,162.159.254.201,443,US,233,7/7,,0,
+vless,15.204.97.214,23576,US,239,7/7,133.0,1,
+vless,subgift3.gcorecdn.com,443,US,271,7/7,15.4,1,
+ss,158.173.24.73,443,GB,326,7/7,130.6,1,
+ss,151.241.19.36,19999,NL,340,7/7,,0,
+ss,142.202.51.22,19999,GB,343,7/7,,0,
+ss,141.98.101.178,443,GB,349,6/7,131.6,1,https://www.instagram.com/
+ss,141.98.101.179,443,GB,351,6/7,130.9,1,https://www.instagram.com/
+ss,151.241.19.29,19999,NL,351,7/7,191.6,1,
+ss,47.254.175.2,443,DE,358,7/7,126.7,1,
+ss,141.98.101.182,443,GB,358,7/7,113.4,1,
+ss,141.98.101.181,443,GB,360,7/7,124.4,1,
+ss,82.38.31.219,8080,NL,362,7/7,,0,
+ss,8.209.119.13,443,DE,364,7/7,,0,
+ss,82.38.31.216,8080,NL,364,7/7,,0,
+ss,185.176.204.18,19999,DE,366,7/7,,0,
+ss,193.29.139.132,8080,NL,367,6/7,,0,https://www.youtube.com/
+ss,8.209.72.224,443,DE,367,7/7,,0,
+ss,167.17.64.27,19999,FR,368,7/7,191.1,1,
+ss,82.38.31.39,8080,NL,368,7/7,110.9,1,
+ss,82.38.31.194,8080,NL,368,7/7,,0,
+ss,82.38.31.202,8080,NL,370,7/7,,0,
+ss,82.38.31.199,8080,NL,371,7/7,,0,
+ss,8.209.73.203,443,DE,371,7/7,,0,
+ss,193.29.139.234,8080,NL,371,7/7,,0,
+ss,82.38.31.212,8080,NL,371,7/7,,0,
+ss,82.38.31.35,8080,NL,372,7/7,111.3,1,
+ss,8.209.106.54,443,DE,373,7/7,115.0,1,
+ss,47.91.74.232,443,DE,373,7/7,,0,
+ss,47.254.167.157,443,DE,374,7/7,,0,
+ss,82.38.31.208,8080,NL,374,7/7,,0,
+ss,82.38.31.66,8080,NL,374,7/7,109.4,1,
+ss,193.29.139.223,8080,NL,375,7/7,,0,
+ss,82.38.31.47,8080,NL,375,7/7,,0,
+ss,82.38.31.186,8080,NL,375,7/7,,0,
+ss,193.29.139.235,443,NL,376,7/7,,0,
+ss,47.245.173.25,443,DE,376,7/7,,0,
+ss,82.38.31.157,8080,NL,376,7/7,,0,
+ss,82.38.31.156,8080,NL,377,7/7,,0,
+ss,47.254.143.251,443,DE,378,7/7,,0,
+ss,82.38.31.204,8080,NL,379,7/7,,0,
+ss,82.38.31.218,8080,NL,379,7/7,,0,
+ss,82.38.31.165,443,NL,380,7/7,,0,
+ss,185.164.175.81,19999,IT,381,7/7,182.9,1,
+ss,82.38.31.180,8080,NL,381,7/7,,0,
+ss,47.254.128.109,443,DE,381,7/7,,0,
+ss,82.38.31.189,8080,NL,381,7/7,,0,
+ss,82.38.31.207,8080,NL,382,7/7,,0,
+ss,47.254.174.203,443,DE,382,7/7,122.4,1,
+ss,79.137.99.183,19999,FR,382,7/7,186.4,1,
+ss,82.38.31.187,8080,NL,382,7/7,,0,
+ss,82.38.31.215,8080,NL,385,7/7,,0,
+ss,202.50.253.90,19999,IT,385,7/7,,0,
+ss,82.38.31.48,8080,NL,385,7/7,,0,
+ss,47.254.169.3,443,DE,387,7/7,,0,
+ss,158.173.20.171,443,NL,388,7/7,,0,
+ss,158.173.20.208,443,NL,389,7/7,137.9,1,
+vless,188.114.98.0,443,US,392,7/7,,0,
+ss,167.17.64.22,19999,FR,393,7/7,190.2,1,
+vless,172.64.154.113,8443,??,394,7/7,,0,
+ss,185.213.23.63,990,NO,395,7/7,68.3,1,
+ss,202.50.253.36,19999,IT,395,7/7,,0,
+ss,202.50.253.99,19999,IT,396,7/7,,0,
+ss,leviko-nl6763.shopingggg.ir,443,NL,398,6/7,,0,https://www.wikipedia.org/
+ss,23.162.152.22,19999,FR,399,7/7,181.0,1,
+ss,38.109.228.110,19999,FR,399,7/7,172.7,1,
+ss,138.199.55.243,19999,SE,405,7/7,165.3,1,
+ss,62.93.179.117,19999,ES,405,7/7,177.7,1,
+ss,82.110.60.9,19999,AT,405,7/7,177.2,1,
+ss,62.93.179.97,19999,ES,407,7/7,,0,
+ss,23.166.88.189,19999,CH,409,7/7,161.5,1,
+ss,202.50.253.27,19999,IT,409,7/7,,0,
+ss,leviko-ch9924.shopingggg.ir,19999,CH,409,7/7,,0,
+ss,202.50.253.63,19999,IT,418,6/7,,0,https://www.google.com/
+ss,leviko-ch7709.shopingggg.ir,19999,CH,422,7/7,,0,
+ss,213.202.208.199,7001,DE,423,7/7,,0,
+ss,202.50.253.81,19999,IT,424,7/7,,0,
+ss,202.50.253.54,19999,IT,436,7/7,,0,
+vless,51.15.16.68,2053,NL,442,7/7,171.3,1,
+vless,62.210.91.2,23576,FR,442,7/7,116.7,1,
+vless,171.22.183.167,443,NL,448,7/7,,0,
+vless,51.158.206.103,23576,NL,450,7/7,160.7,1,
+vless,51.158.206.29,23576,NL,451,7/7,146.0,1,
+vless,51.158.206.25,23576,NL,451,7/7,,0,
+vless,51.158.206.8,23576,NL,452,7/7,171.4,1,
+vless,51.158.206.93,23576,NL,452,7/7,167.7,1,
+vless,152.228.139.33,51671,FR,452,7/7,124.4,1,
 vless,51.158.206.87,23576,NL,453,7/7,,0,
-ss,82.38.31.185,8080,NL,454,7/7,181.1,1,
-vless,51.158.206.98,23576,NL,454,7/7,,0,
-vless,51.158.206.97,23576,NL,456,7/7,,0,
-vless,51.158.206.34,23576,NL,457,7/7,,0,
-vless,ww13.levikogjgfdd.ir,23576,US,458,7/7,113.5,1,
-vless,51.158.206.8,23576,NL,461,7/7,,0,
-vmess,209.38.42.238,1270,NL,462,7/7,199.3,1,
-vless,62.210.91.10,23576,FR,462,7/7,,0,
-vless,147.224.54.25,2053,US,466,7/7,35.0,1,
-vmess,142.202.51.42,1270,GB,467,7/7,109.6,1,
-vless,51.158.206.80,23576,NL,469,7/7,156.3,1,
-vless,51.158.206.25,23576,NL,470,7/7,,0,
-vless,51.158.206.20,23576,NL,481,7/7,,0,
-vless,152.228.139.33,51671,FR,483,7/7,79.1,1,
-vless,94.183.164.138,443,NL,483,7/7,,0,
-vmess,104.18.42.163,443,US,486,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vmess,149.7.16.228,1270,GB,489,7/7,133.8,1,
-vmess,162.19.82.57,1270,FR,489,7/7,175.4,1,
-vless,9.247.23.209,443,FR,490,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,45.94.36.2,443,NL,490,7/7,113.7,1,
-ss,185.226.172.8,8008,DE,493,7/7,,0,
-vmess,188.166.81.135,1270,NL,495,7/7,182.1,1,
-vless,152.228.139.33,35108,FR,496,7/7,45.1,1,
-vmess,46.105.222.153,1270,FR,497,7/7,185.6,1,
-vless,51.158.206.19,23576,NL,500,7/7,,0,
-vless,51.158.206.96,23576,NL,500,7/7,,0,
-vmess,79.137.99.183,1270,FR,506,7/7,,0,
-vless,138.124.86.230,48115,SE,507,7/7,,0,
-vmess,46.105.222.155,1270,FR,508,7/7,171.5,1,
-vless,51.158.206.93,23576,NL,511,7/7,,0,
-vmess,185.177.229.95,1270,DE,512,7/7,182.2,1,
-vmess,46.105.222.157,1270,FR,513,7/7,192.0,1,
-vless,edge.bookmai.com,443,FR,515,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vmess,46.105.222.156,1270,FR,519,7/7,150.1,1,
-vless,jdwabxe.cvewfjg.shop,443,DE,523,7/7,171.3,1,
-vless,191.217.215.228,2053,DE,524,7/7,,0,
-vmess,172.67.190.164,443,US,530,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vmess,62.93.166.184,1270,SE,534,7/7,,0,
-vless,164.37.224.238,443,IL,534,7/7,,0,
-vless,62.210.91.2,23576,FR,536,7/7,,0,
-vless,179.254.169.116,8443,FI,538,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,188.114.98.0,443,US,541,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
-vmess,172.64.145.93,443,US,545,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,195.15.207.252,443,CH,549,7/7,171.7,1,
-vless,64.188.74.211,8443,FI,549,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,31.77.56.68,2052,PL,550,7/7,150.5,1,
-vmess,138.199.55.230,1270,SE,554,7/7,,0,
-vless,89.116.72.217,8880,DE,555,7/7,53.7,1,
-vless,31.56.18.99,443,DE,560,7/7,73.1,1,
-vmess,186.190.215.4,1270,CH,560,7/7,133.1,1,
-vless,free-amsterdam-node-1.cloudwidecdn.com,443,NL,568,7/7,,0,
-vless,157.180.98.124,49659,FI,575,7/7,98.0,1,
-vless,88.216.60.73,443,SE,577,7/7,95.1,1,
-vless,nl.memepn.com,443,NL,583,7/7,109.0,1,
-vless,195.206.235.202,443,DE,585,7/7,,0,
-vless,172.235.237.9,58887,IT,588,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
-ss,8.220.81.25,443,DE,599,7/7,65.5,1,
-vmess,guanwang.awsno.com,443,US,602,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,212.192.3.113,9543,NL,609,7/7,51.9,1,
-vless,leviko-se6979.shopingggg.ir,48115,SE,615,7/7,161.3,1,
-vmess,188.114.99.137,443,US,617,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,155.248.175.201,23169,JP,628,7/7,,0,
-vless,durov.sky-vault.top,8443,FI,630,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,87.199.205.28,443,NL,632,5/7,,0,https://www.youtube.com/ https://github.com/
-vless,92.118.206.218,8443,DE,634,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,146.103.43.124,9543,DE,638,7/7,5.2,1,
-vless,83.141.72.179,24441,FI,639,7/7,24.8,1,
-vless,84.32.209.118,443,LT,642,7/7,,0,
-vless,86.54.28.75,443,NL,643,7/7,,0,
-vless,user.betust.net,443,NL,649,7/7,,0,
-vless,fr1oo.sublinkplas.ir,12190,FR,654,7/7,15.1,1,
-vless,84.32.209.54,443,LT,658,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
-vless,94.183.167.172,443,PL,659,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
-vless,84.32.83.197,443,LT,666,7/7,,0,
-vless,195.133.93.179,9543,NL,675,7/7,51.1,1,
-vless,136.148.83.69,443,FI,676,1/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,146.103.43.8,9543,DE,679,7/7,124.2,1,
-vless,185.81.129.161,443,LV,682,6/7,,0,https://www.youtube.com/
-ss,8.209.72.224,443,DE,684,7/7,,0,
-vless,hw3.modemjibi.com,993,DE,692,6/7,98.4,1,https://discord.com/
-vmess,leviko-se4660.shopingggg.ir,1270,SE,706,7/7,,0,
-vless,45.150.238.201,20443,RU,711,3/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://github.com/
-vless,146.103.43.70,9543,DE,717,7/7,45.9,1,
-vless,171.22.183.167,443,NL,721,7/7,100.1,1,
-vless,200.169.179.233,443,RU,738,6/7,,0,https://www.instagram.com/
-vless,2.26.251.236,443,DE,739,5/7,,0,https://www.google.com/ https://github.com/
-vless,132.243.242.97,9543,NL,746,7/7,,0,
-vless,201.51.12.98,443,RU,748,5/7,,0,https://www.instagram.com/ https://web.telegram.org/
-vless,vps3.nemnogogo.com,443,RU,755,5/7,,0,https://www.instagram.com/ https://web.telegram.org/
-vless,79.182.70.192,443,NL,806,7/7,,0,
-vless,195.216.169.229,9543,NL,817,6/7,56.0,1,https://www.youtube.com/
-vless,81.200.158.26,443,DE,878,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
-vless,84.54.44.117,443,NL,886,7/7,48.6,1,
-vless,31.222.235.81,443,UA,888,7/7,53.3,1,
-ss,23.162.152.22,19999,FR,896,7/7,121.4,1,
-vless,slot2.ipoxxo.online,443,DE,901,7/7,117.4,1,
-ss,185.164.175.81,19999,IT,916,7/7,,0,
-vless,83.141.92.168,443,CZ,929,7/7,,0,
-ss,193.29.139.223,8080,NL,953,7/7,61.0,1,
-vless,150.251.143.253,443,DE,986,7/7,,0,
-vless,136.148.83.69,443,FI,1003,1/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vmess,154.47.19.225,1270,AT,1009,7/7,,0,
-vless,136.148.83.70,443,FI,1022,1/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,213.183.45.23,8454,FR,1023,7/7,,0,
-vless,176.98.176.60,443,DE,1030,7/7,4.9,1,
-ss,82.38.31.211,8080,NL,1032,7/7,,0,
-vless,83.217.201.82,443,??,1042,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,45.90.59.15,443,CH,1064,7/7,,0,
-vless,sur.deev-guard.ir,5444,DE,1067,6/7,10.0,1,https://www.youtube.com/
-vless,146.103.42.165,9543,DE,1075,7/7,35.7,1,
-vless,191.217.215.228,2096,DE,1126,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
-vless,132.243.242.244,9543,NL,1200,7/7,,0,
-vless,130.12.242.106,443,NL,1205,7/7,8.3,1,
-vless,devcdn.icu,443,PL,1387,6/7,,0,https://www.wikipedia.org/
-vmess,169.197.142.22,18000,US,1427,7/7,10.0,1,
-vless,195.216.168.101,9543,DE,1465,7/7,23.3,1,
-vless,92.63.189.39,8443,DE,1528,6/7,28.0,1,https://www.youtube.com/
-vless,5.129.253.99,443,DE,1621,3/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/
-vless,132.243.242.219,9543,NL,1656,7/7,49.2,1,
-vless,213.183.45.23,8444,SG,1708,7/7,30.5,1,
-vless,132.243.242.40,9543,NL,1731,6/7,,0,https://github.com/
-vless,104.24.9.103,2083,DE,1802,7/7,,0,
-vless,213.183.41.31,8459,AE,1815,7/7,24.3,1,
-vless,92.63.189.39,8443,DE,1849,6/7,27.2,1,https://www.youtube.com/
-vless,31.76.3.51,443,DE,1875,7/7,,0,
-vless,185.247.224.206,443,??,1876,3/7,,0,https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,188.214.37.231,443,DE,1914,7/7,,0,
-vless,foliose.merlano.monster,443,DE,1926,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
-vless,lite.3apes.pro,443,LV,1939,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
-vless,188.114.98.0,443,DE,1941,6/7,,0,https://github.com/
-vless,104.171.133.209,443,??,1975,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,146.103.42.117,9543,DE,1989,7/7,70.4,1,
-vless,72.56.238.135,443,DE,2094,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
-ss,135.148.42.13,8388,US,2161,4/7,,0,https://web.telegram.org/ https://discord.com/ https://www.wikipedia.org/
-vless,inlay.merlano.monster,443,DE,2194,5/7,,0,https://www.youtube.com/ https://github.com/
-ss,130.49.189.158,43558,AL,2195,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,13.141.36.15,443,FI,2232,7/7,17.7,1,
-vless,vde.b.qaz.it.com,9543,NL,2282,7/7,70.7,1,
-vless,15.204.97.214,23576,US,2445,7/7,210.6,1,
-ss,57.129.113.16,8388,DE,2583,3/7,,0,https://www.google.com/ https://www.youtube.com/ https://discord.com/ https://github.com/
-vless,185.247.224.206,443,DE,2604,6/7,,0,https://github.com/
-vless,leviko-nl4680.shopingggg.ir,443,DE,2624,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
-vmess,67.220.85.46,18000,US,2650,7/7,,0,
-trojan,208.69.78.208,443,CH,2725,6/7,12.3,1,https://www.instagram.com/
-vless,185.247.224.206,443,DE,2843,4/7,,0,https://www.youtube.com/ https://discord.com/ https://github.com/
-vless,spindle.filnex.baby,443,??,3014,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
-vless,payablemeta.cleanfoodshop.org,443,DE,3099,7/7,,0,
-vless,185.122.167.103,59130,GB,3235,7/7,78.8,1,
-vless,13.141.37.245,443,NL,3335,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,sienna.merlano.monster,443,DE,3398,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
-vless,217.69.174.175,443,US,3399,3/7,,0,https://www.google.com/ https://www.youtube.com/ https://discord.com/ https://github.com/
-vless,p2.sklserv.com,443,PL,4003,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
-vless,46.28.67.55,443,RO,4040,7/7,47.8,1,
-vless,karen.shahankhan.ir,443,FI,4057,6/7,,0,https://github.com/
-vmess,129.146.77.248,39495,US,4304,7/7,30.1,1,
-vless,31.76.3.52,443,DE,4548,7/7,,0,
-vless,31.77.158.172,443,FI,4942,5/7,,0,https://www.youtube.com/ https://discord.com/
-vless,swe1.baterium.space,443,FI,5081,7/7,,0,
-vless,147.45.221.225,443,NL,5154,7/7,38.7,1,
-vless,82.118.22.161,443,PL,5239,6/7,53.5,1,https://www.google.com/
-vless,178.212.35.198,443,IN,5515,7/7,49.5,1,
-vless,in.smrtai.top,443,IN,6540,5/7,47.2,1,https://www.youtube.com/ https://www.instagram.com/
-vless,de2.fusetea.ir,5050,??,7246,7/7,104.4,1,
+vless,51.158.206.97,23576,NL,453,7/7,,0,
+vless,51.158.206.98,23576,NL,453,7/7,169.8,1,
+vmess,209.38.42.238,1270,NL,453,7/7,,0,
+vless,51.158.206.26,23576,NL,453,7/7,,0,
+vless,51.158.206.86,23576,NL,455,7/7,169.9,1,
+vless,51.158.206.20,23576,NL,457,7/7,,0,
+vless,51.158.206.19,23576,NL,460,7/7,165.7,1,
+vless,93.123.101.198,443,NL,460,7/7,,0,
+vless,152.228.139.33,35108,FR,463,7/7,150.5,1,
+vless,51.158.206.34,23576,NL,465,7/7,165.2,1,
+vless,51.158.206.80,23576,NL,466,7/7,163.1,1,
+ss,178.162.254.38,8388,??,467,2/7,,0,https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,5.35.44.218,8443,NL,468,7/7,116.8,1,
+vless,45.129.242.56,443,DE,469,7/7,102.0,1,
+vless,51.158.206.96,23576,NL,470,7/7,160.2,1,
+trojan,66.163.127.44,443,NL,470,7/7,,0,
+trojan,66.163.127.107,443,NL,471,7/7,,0,
+trojan,66.163.127.225,443,NL,472,7/7,189.1,1,
+vless,31.56.18.99,443,DE,474,7/7,,0,
+vless,62.210.91.10,23576,FR,475,7/7,,0,
+vless,79.182.70.192,443,NL,478,7/7,,0,
+vless,163.245.42.56,443,FR,479,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vmess,185.177.229.95,1270,DE,483,7/7,195.7,1,
+vmess,149.7.16.228,1270,GB,484,7/7,,0,
+vmess,46.105.222.157,1270,FR,485,7/7,180.8,1,
+vless,109.248.17.252,443,DE,489,7/7,,0,
+vless,138.124.86.230,48115,SE,495,7/7,,0,
+vless,leviko-se6979.shopingggg.ir,48115,SE,497,7/7,161.9,1,
+ss,94.156.250.148,7001,GB,499,7/7,54.2,1,
+vmess,46.105.222.156,1270,FR,501,7/7,192.4,1,
+vmess,46.105.222.153,1270,FR,501,7/7,163.2,1,
+vless,edge.bookmai.com,443,FR,501,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vmess,91.134.35.72,1270,FR,501,7/7,,0,
+vless,51.195.91.135,8443,DE,505,7/7,,0,
+vless,de166.mech-pro.online,443,??,506,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,86.54.28.75,443,NL,506,7/7,,0,
+vless,free-amsterdam-node-1.cloudwidecdn.com,443,NL,513,7/7,,0,
+vmess,57.129.132.223,80,GB,515,7/7,,0,
+vless,172.235.237.9,58887,IT,516,7/7,153.1,1,
+ss,57.131.27.21,8388,IT,517,6/7,134.3,1,https://web.telegram.org/
+ss,202.50.253.18,19999,IT,517,7/7,,0,
+vless,92.118.206.218,8443,DE,518,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,185.134.203.106,443,NL,520,7/7,,0,
+trojan,66.163.118.251,443,ES,522,7/7,186.8,1,
+vless,31.77.56.68,2052,PL,526,7/7,,0,
+vless,191.217.215.228,2053,DE,527,7/7,,0,
+vmess,154.47.19.225,1270,AT,530,7/7,164.7,1,
+vless,jdwabxe.cvewfjg.shop,443,DE,531,7/7,175.2,1,
+vless,104.21.70.21,443,SG,531,7/7,,0,
+ss,130.49.189.158,43558,AL,532,7/7,101.5,1,
+vless,46.29.255.123,59539,SE,536,7/7,,0,
+trojan,208.69.78.222,443,CH,538,7/7,152.7,1,
+trojan,208.69.78.208,443,CH,546,7/7,,0,
+trojan,208.69.78.29,443,CH,550,7/7,151.8,1,
+vless,150.241.87.52,443,PL,553,7/7,,0,
+vless,179.43.187.67,443,??,555,0/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vmess,62.93.166.184,1270,SE,555,7/7,,0,
+vless,195.216.168.101,9543,DE,561,7/7,93.2,1,
+trojan,66.163.118.40,443,ES,564,7/7,172.1,1,
+vless,188.114.98.0,443,JP,565,7/7,,0,
+vmess,138.199.55.230,1270,SE,565,7/7,,0,
+vless,87.199.205.28,443,NL,573,7/7,,0,
+vless,146.103.43.70,9543,DE,581,7/7,98.8,1,
+vless,153.52.69.249,443,CZ,581,7/7,,0,
+vless,212.192.3.113,9543,NL,582,7/7,61.2,1,
+vless,146.103.40.173,9543,DE,590,7/7,91.1,1,
+vless,164.37.224.238,443,IL,592,7/7,,0,
+vless,94.159.98.82,2053,EE,593,7/7,93.8,1,
+vless,146.103.42.26,9543,DE,595,7/7,78.3,1,
+vless,146.103.43.91,9543,DE,597,7/7,107.6,1,
+ss,194.87.69.12,18443,??,599,3/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://github.com/
+vless,130.12.242.106,443,NL,603,7/7,17.7,1,
+trojan,66.163.118.203,443,ES,606,7/7,175.3,1,
+vless,31.76.93.112,443,DE,608,5/7,,0,https://www.youtube.com/ https://www.wikipedia.org/
+vless,147.45.221.225,443,NL,609,7/7,,0,
+vmess,leviko-se4660.shopingggg.ir,1270,SE,611,7/7,,0,
+vless,leviko-al8733.shopingggg.ir,443,NL,613,7/7,,0,
+vless,146.103.40.224,9543,DE,620,7/7,114.0,1,
+vless,karen.shahankhan.ir,443,FI,625,7/7,4.7,1,
+vless,179.254.126.86,25201,NL,629,7/7,,0,
+vless,82.118.16.189,443,IT,632,7/7,104.2,1,
+trojan,208.69.78.33,443,CH,633,7/7,26.8,1,
+vless,195.206.235.72,443,IL,633,7/7,,0,
+vless,138.124.37.196,443,FI,634,7/7,,0,
+ss,156.67.120.205,51628,NL,635,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
+vless,82.152.141.139,443,NL,636,7/7,59.8,1,
+vless,swe1.baterium.space,443,FI,642,7/7,,0,
+vless,165.231.157.126,8443,EE,643,7/7,,0,
+vless,leviko-ru4448.shopingggg.ir,443,RU,646,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
+vless,31.76.77.231,443,FI,647,7/7,106.6,1,
+vless,191.217.215.228,2096,DE,647,7/7,,0,
+vless,201.51.12.98,443,RU,652,5/7,,0,https://www.instagram.com/ https://web.telegram.org/
+vless,201.24.116.192,443,RU,660,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/
+vless,136.148.83.71,443,PL,665,1/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,hw7.jirjirakirani.com,993,DE,669,6/7,121.4,1,https://discord.com/
+vless,153.52.85.198,443,NL,672,7/7,,0,
+vless,vps3.nemnogogo.com,443,RU,677,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/
+vless,hw3.modemjibi.com,993,DE,683,6/7,29.7,1,https://discord.com/
+vless,45.150.238.201,20443,RU,685,6/7,,0,https://web.telegram.org/
+vless,111.88.131.5,443,RU,690,4/7,,0,https://www.google.com/ https://www.instagram.com/ https://web.telegram.org/
+vless,turkey-ip1.mmdaqaorg.xyz,50738,TR,713,7/7,8.9,1,
+vless,31.76.87.225,443,PL,718,6/7,,0,https://www.youtube.com/
+vless,82.118.22.161,443,PL,719,5/7,,0,https://www.youtube.com/ https://www.instagram.com/
+vless,136.148.83.69,443,FI,725,1/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,132.243.242.246,9543,NL,734,7/7,71.9,1,
+vless,136.148.83.69,443,PL,735,1/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,31.76.3.51,443,DE,737,7/7,,0,
+vless,45.142.212.191,443,PL,751,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
+vless,146.103.43.82,9543,DE,755,7/7,116.3,1,
+vless,195.216.169.229,9543,NL,764,7/7,,0,
+vless,31.76.3.52,443,DE,768,7/7,,0,
+vless,188.114.98.0,443,US,774,5/7,,0,https://www.youtube.com/ https://github.com/
+vless,146.103.43.8,9543,DE,778,7/7,128.3,1,
+vless,netherlands.vpnserverhub.com,443,NL,781,7/7,119.9,1,
+vless,accessfooter.cleanfoodshop.org,443,DE,783,7/7,,0,
+vless,ancient-haze-d203.vpnetwork3567.workers.dev,443,AT,784,7/7,121.6,1,
+vless,172.64.150.205,2083,DE,789,7/7,,0,
+vless,193.233.89.130,8443,CH,795,7/7,,0,
+vless,83.141.92.168,443,CZ,802,7/7,,0,
+vless,176.98.176.60,443,DE,807,7/7,,0,
+vless,de2.fusetea.ir,5050,DE,815,7/7,118.9,1,
+vless,84.54.44.117,443,NL,832,7/7,,0,
+vless,212.192.3.63,9543,NL,834,7/7,84.3,1,
+vless,delicate-tree-9749.vpnetwork3567.workers.dev,443,BG,855,7/7,,0,
+vless,104.171.135.229,443,NL,887,7/7,,0,
+vless,146.103.40.91,9543,DE,921,7/7,132.3,1,
+vless,146.103.42.138,9543,DE,923,7/7,,0,
+vless,111.88.131.5,443,DE,962,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/
+vless,104.25.128.15,443,KR,989,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,196.245.153.156,443,IL,993,7/7,,0,
+vless,dc.insidenet.ru,20443,RU,1003,6/7,,0,https://web.telegram.org/
+vless,176.114.95.245,443,US,1006,7/7,,0,
+vless,82.118.19.153,443,DE,1008,7/7,,0,
+vless,146.103.43.124,9543,DE,1013,7/7,125.7,1,
+vless,213.183.45.23,8454,FR,1018,7/7,,0,
+vless,212.192.3.222,9543,NL,1022,7/7,103.8,1,
+trojan,208.69.78.158,443,CH,1044,7/7,,0,
+vless,146.103.42.119,9543,DE,1050,7/7,,0,
+vless,146.103.41.14,9543,DE,1063,7/7,38.8,1,
+vless,146.103.42.117,9543,DE,1068,7/7,116.2,1,
+vless,178.172.227.228,10444,BY,1130,2/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://github.com/ https://www.wikipedia.org/
+vless,leviko-de8799.shopingggg.ir,9543,DE,1170,7/7,,0,
+vless,136.148.83.70,443,FI,1174,1/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,213.183.45.23,8450,LV,1211,7/7,59.0,1,
+vless,188.114.98.0,443,SE,1218,7/7,,0,
+vless,146.103.42.78,9543,DE,1233,7/7,111.5,1,
+vmess,67.220.85.46,18000,US,1294,6/7,,0,https://www.instagram.com/
+vless,in.smrtai.top,443,IN,1340,7/7,56.3,1,
+vless,176.114.95.249,443,LT,1352,7/7,,0,
+vless,146.103.42.165,9543,DE,1377,7/7,118.2,1,
+vmess,de.zhou-yufan.com,443,DE,1385,6/7,,0,https://www.youtube.com/
+vless,179.254.115.111,443,US,1402,7/7,,0,
+vless,8.210.92.38,443,HK,1413,3/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/
+vless,ytsdnol.localip.ir,2087,DE,1434,7/7,,0,
+vless,196.245.52.187,443,US,1556,7/7,,0,
+vmess,23.162.200.198,18000,CA,1570,7/7,,0,
+vless,188.114.98.0,443,KR,1667,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,213.183.45.23,8444,SG,1722,7/7,,0,
+vless,146.103.41.207,9543,DE,1816,3/7,,0,https://www.google.com/ https://web.telegram.org/ https://discord.com/ https://github.com/
+vless,51.38.71.147,443,GB,1981,4/7,,0,https://web.telegram.org/ https://github.com/ https://www.wikipedia.org/
+vless,213.183.41.31,8463,JP,2057,7/7,,0,
+vless,195.216.169.182,9543,NL,2261,7/7,109.4,1,
+ss,184.107.106.78,8388,CA,2314,5/7,,0,https://discord.com/ https://github.com/
+vless,195.123.240.65,443,US,2528,7/7,,0,
+vless,a80b5386.fi2.h1clayd.click,443,FI,2550,5/7,49.7,1,https://www.youtube.com/ https://www.instagram.com/
+vless,155.248.175.201,23169,JP,2646,4/7,,0,https://www.youtube.com/ https://www.instagram.com/ https://github.com/
+vless,13.141.36.63,443,IL,2718,7/7,,0,
+vless,217.69.174.175,443,US,2880,7/7,,0,
+vless,196.196.149.80,443,ES,2972,6/7,,0,https://www.youtube.com/
+vless,15b171g.nl7.h1clayd.click,443,NL,3143,6/7,,0,https://github.com/
+vless,79.182.70.232,443,NL,3351,7/7,,0,
+vless,158.220.95.242,443,??,3829,2/7,,0,https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,xray-ikmqcro3-rapid-river-6.cloady.io,443,IN,3898,6/7,,0,https://www.youtube.com/
+vless,146.103.42.6,9543,??,4156,1/7,,0,https://www.google.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
+vless,195.206.235.232,443,NL,4354,7/7,,0,
+vless,4935e4t.de25.h1clayd.click,443,IL,4670,7/7,,0,
+vless,uk.fusetea.ir,1001,FR,4704,7/7,,0,
+vless,uk1.connectsuite.org,443,GB,5386,5/7,,0,https://web.telegram.org/ https://discord.com/
+vless,188.114.98.0,443,??,5944,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://web.telegram.org/ https://discord.com/ https://github.com/
+vless,150.251.143.253,443,IL,6610,1/7,,0,https://www.google.com/ https://www.youtube.com/ https://www.instagram.com/ https://discord.com/ https://github.com/ https://www.wikipedia.org/
